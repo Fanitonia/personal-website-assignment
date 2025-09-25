@@ -269,4 +269,10 @@ footer {
     color: white;
 }
 
+.example-video {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
 
