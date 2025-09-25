@@ -1,3 +1,5 @@
 # Kişisel Websitesi Ödevi
 
 Web Teknolojileri ve Programla dersi için yapılmış bir kişisel websitesi. Sadece HTML, CSS ve JavaScript kullanılmıştır.
+
+[Website Linki](https://onurgudeloglu.netlify.app)
